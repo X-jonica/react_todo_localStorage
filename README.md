@@ -34,4 +34,4 @@ pnpm dev
 pnpm build
 ```
 
-![Aperçu de l'application](/todo_react_localstorage.png)
+![Aperçu de l'application](./public/images/todo_react_localstorage.png)
