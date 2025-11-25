@@ -22,7 +22,7 @@ Une application React/TypeScript moderne pour la gestion de tâches quotidiennes
 
 ```bash
 # Cloner le repository
-git clone [url-du-repo]
+git clone https://github.com/X-jonica/react_todo_localStorage.git
 
 # Installer les dépendances
 pnpm install
