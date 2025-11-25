@@ -4,19 +4,19 @@ Une application React/TypeScript moderne pour la gestion de tâches quotidiennes
 
 ## ✨ Fonctionnalités
 
-- **📝 Gestion complète des tâches** : Ajout, suppression et marquage comme terminé
-- **🎯 Système de priorités** : Tâches classées en Basse, Moyenne et Haute priorité
-- **🔍 Filtres intelligents** : Filtrage par statut (terminé/non terminé) et par priorité
-- **💾 Persistance des données** : Les tâches sont sauvegardées localement
-- **🎨 Interface moderne** : Design responsive avec Tailwind CSS et DaisyUI
-- **⚡ Performant** : Développé avec React et TypeScript pour une expérience fluide
+-   **📝 Gestion complète des tâches** : Ajout, suppression et marquage comme terminé
+-   **🎯 Système de priorités** : Tâches classées en Basse, Moyenne et Haute priorité
+-   **🔍 Filtres intelligents** : Filtrage par statut (terminé/non terminé) et par priorité
+-   **💾 Persistance des données** : Les tâches sont sauvegardées localement
+-   **🎨 Interface moderne** : Design responsive avec Tailwind CSS et DaisyUI
+-   **⚡ Performant** : Développé avec React et TypeScript pour une expérience fluide
 
 ## 🛠️ Technologies Utilisées
 
-- **Frontend** : React 19.2.0 + TypeScript
-- **Styling** : Tailwind CSS + DaisyUI
-- **Build Tool** : Vite
-- **State Management** : React Hooks (useState, useEffect)
+-   **Frontend** : React 19.2.0 + TypeScript
+-   **Styling** : Tailwind CSS + DaisyUI
+-   **Build Tool** : Vite
+-   **State Management** : React Hooks (useState, useEffect)
 
 ## 🚀 Installation et Utilisation
 
@@ -32,3 +32,6 @@ pnpm dev
 
 # Build pour la production
 pnpm build
+```
+
+![Aperçu de l'application](/todo_react_localstorage.png)
